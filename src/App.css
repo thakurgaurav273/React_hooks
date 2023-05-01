@@ -1,0 +1,28 @@
+.container {
+  text-align: center;
+  margin-top: 150px;
+}
+h1 {
+  color: white;
+  font-weight: inherit;
+}
+.mybutton {
+  margin-top: 15px;
+  height: 30px;
+  width: 250px;
+  color: rgb(15, 197, 136);
+  font-size: 20px;
+}
+
+.name {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  background-color: rgb(107, 238, 194);
+  border: 1px solid white;
+  color: white;
+  font-size: 20px;
+}
+body {
+  background-color: rgb(15, 197, 136);
+}
